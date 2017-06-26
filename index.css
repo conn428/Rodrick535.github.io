@@ -1,0 +1,42 @@
+header {
+  font-size: 35px;
+  text-align: center;
+  font-family: calibri;
+  background: black;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-family: calibri;
+}
+p {
+  font-family: calibri;
+  text-align: center;
+}
+
+.area {
+  border: 3px solid black;
+}
+button {
+  background: black;
+  color: white;
+  border: 3px solid black;
+  font-size: 20px;
+  padding: 5px 10px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: white;
+  color: black;
+  border: 3px solid white;
+}
+.small {
+  background: black;
+  color: white;
+  border: 3px solid black;
+  font-size: 14px;
+  padding: 0px 10px;
+  transition: 0.3s;
+}
